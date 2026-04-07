@@ -1,0 +1,8 @@
+Sensor,Type,Annealing_Time
+200206_LR,onPCB,all
+200181_LR,onPCB,all
+N8740_3_UR2,onPCB,noadd
+N8738_1_LL2,onPCB,20days
+N8740_2_UR2,bare,noadd
+P6213_10_UR,bare,noadd
+P6213_10_UL,bare,noadd

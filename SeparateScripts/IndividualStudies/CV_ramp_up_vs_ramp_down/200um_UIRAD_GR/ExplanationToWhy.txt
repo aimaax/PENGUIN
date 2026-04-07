@@ -1,0 +1,2 @@
+Want to investigate if there are a difference when ramping from -20 to -900 V and -900 to -20 V for CV measurements.
+The measurements are done first one measurement of -20 to -900 and then the second from -900 to -20 etc.

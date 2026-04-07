@@ -1,0 +1,97 @@
+CV measurement
+CV Measurement
+:Program Version
+13.8.2003 Moll, 4.2008 Fahrer, 6.2011 Gabrysch, 7.2019 Mateu
+:start
+04/03/2025 16:28:06
+:stop
+04/03/2025 16:30:58
+:elapsed[s]
+171.6
+:tester
+
+:environment
+Probe Station (28-2-019)
+:comment
+
+:temperature[C]
+-20.0
+:ToolID
+1102
+:GuardRingConnection
+1
+:Region
+0
+:Instruments
+V source: Keithley 2410
+- integration time [ms]: 20.0
+- internal averaging: 3
+- compliance [A or V]: 1.000E-3
+LCR meter: Agilent E4980A
+- Frequency: 2000 Hz
+- Signal level: 500 mV
+- Averaging: 10
+:LCR open correction: C[F] , G[S]
+5.308E-11, 1.286E-9
+:ramp up step [V], delay [s], down step [V], delay[s]
+20.0, 2.0, 20.0, 0.5
+:set voltage start [V], voltage stop [V], number of steps
+-20.0, -500.0, 25
+:measured voltage start [V], voltage stop [V], number of steps
+-20.0, -500.0, 25
+:step mode
+linear
+:Sample
+300055_UL
+:Producer
+HPK
+:Run
+
+:Wafer
+300055
+:TREC
+
+:Area[cm-2]
+
+:Thickness[um]
+120
+:Support_Wafer_Thickness[um]
+
+:Resistivity[ohm.cm]
+
+:Sample_comment
+
+:Material
+p EPI
+:Irradiation(Location,Fluence/Dose,Units,Particle,Date)
+28/2-026,1.000000E+14,neq/cm2,  Neutrons,24/02/2025
+:Annealing_history(time[min],Temp[C],Date)
+:legend
+V_detector [V]	Capacitance [F]	Conductivity [S]	Bias [V]	Current Power Supply [A]
+BEGIN
+-2.000000E+1	2.743095E-11	8.165566E-8	-2.000000E+1	-4.240576E-7
+-4.000000E+1	2.327895E-11	8.868259E-9	-4.000000E+1	-4.843459E-7
+-6.000000E+1	2.292715E-11	2.026099E-9	-6.000000E+1	-5.190395E-7
+-8.000000E+1	2.287445E-11	9.986890E-10	-8.000000E+1	-5.301143E-7
+-1.000000E+2	2.284745E-11	7.274290E-10	-1.000000E+2	-5.419579E-7
+-1.200000E+2	2.283945E-11	6.525290E-10	-1.200000E+2	-5.551194E-7
+-1.400000E+2	2.282235E-11	7.631190E-10	-1.400000E+2	-5.609518E-7
+-1.600000E+2	2.280755E-11	7.209490E-10	-1.600000E+2	-5.652470E-7
+-1.800000E+2	2.277565E-11	8.076890E-10	-1.800000E+2	-5.798904E-7
+-2.000000E+2	2.274885E-11	9.022790E-10	-2.000000E+2	-5.863542E-7
+-2.200000E+2	2.272725E-11	8.012690E-10	-2.200000E+2	-5.878912E-7
+-2.400000E+2	2.271545E-11	6.136090E-10	-2.400000E+2	-5.978411E-7
+-2.600000E+2	2.270865E-11	5.339990E-10	-2.600000E+2	-6.055121E-7
+-2.800000E+2	2.269805E-11	4.304990E-10	-2.800000E+2	-6.143644E-7
+-3.000000E+2	2.269445E-11	4.043190E-10	-3.000000E+2	-6.131154E-7
+-3.200000E+2	2.268665E-11	5.133190E-10	-3.200000E+2	-6.208695E-7
+-3.400000E+2	2.268645E-11	5.379990E-10	-3.400000E+2	-6.257823E-7
+-3.600000E+2	2.268195E-11	4.995190E-10	-3.600000E+2	-6.344148E-7
+-3.800000E+2	2.268075E-11	5.045690E-10	-3.800000E+2	-6.481520E-7
+-4.000000E+2	2.267645E-11	4.195890E-10	-4.000000E+2	-6.499085E-7
+-4.200000E+2	2.266945E-11	5.223990E-10	-4.200000E+2	-6.582669E-7
+-4.400000E+2	2.266865E-11	3.864490E-10	-4.400000E+2	-6.646756E-7
+-4.600000E+2	2.266225E-11	4.022190E-10	-4.600000E+2	-6.767663E-7
+-4.800000E+2	2.265775E-11	4.567590E-10	-4.800000E+2	-6.756132E-7
+-5.000000E+2	2.265995E-11	5.204990E-10	-5.000000E+2	-6.914635E-7
+END

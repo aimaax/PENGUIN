@@ -1,0 +1,83 @@
+15:53:49 ------------------------------------------- Analysis Started -------------------------------------------
+15:53:49 Measurement folder:300um_UIRAD_253_250903_Laser2620
+15:53:49 Number of bins:25
+15:53:49 Graph size for integration:0.500000
+15:53:49 Filter intensity:5.000000
+15:53:49 Curve sensitivity:300.000000
+15:53:49 Median discard percentage:30.000000
+15:53:49 Reading file:  300um_UIRAD_-400_253_250903_Laser2620
+15:53:49 Terminal voltage oscilloscope:  50
+15:53:49 Number of events per file:  200
+15:53:49 Date:  250903
+15:53:49 Points per event:  1250
+15:53:49 Time between points:  7.9936e-11
+15:53:49 Start time:  8e-11
+15:53:49 Number of channels: 1
+15:53:49 Num. of U:  -
+15:53:49 Voltage:  -400
+15:53:49 Current:  6.727427e-08
+15:53:49 Temperature:  253
+15:53:49 ************************* 
+15:53:49 Sample:  300um_UIRAD
+15:53:49 User:  Marie, Max, Ioanna
+15:53:49 Comment:  
+15:53:49 ************************* 
+15:53:49 0 waveforms discarded
+15:53:49 Pedestal: 0.27999999999999997
+15:53:49 Reading file:  300um_UIRAD_-500_253_250903_Laser2620
+15:53:49 Terminal voltage oscilloscope:  50
+15:53:49 Number of events per file:  200
+15:53:49 Date:  250903
+15:53:49 Points per event:  1250
+15:53:49 Time between points:  7.9936e-11
+15:53:49 Start time:  8e-11
+15:53:49 Number of channels: 1
+15:53:49 Num. of U:  -
+15:53:49 Voltage:  -500
+15:53:49 Current:  0.0001049613
+15:53:49 Temperature:  253
+15:53:49 ************************* 
+15:53:49 Sample:  300um_UIRAD
+15:53:49 User:  Marie, Max, Ioanna
+15:53:49 Comment:  
+15:53:49 ************************* 
+15:53:49 0 waveforms discarded
+15:53:49 Pedestal: 0.02666666666666663
+15:53:49 Reading file:  300um_UIRAD_-600_253_250903_Laser2620
+15:53:49 Terminal voltage oscilloscope:  50
+15:53:49 Number of events per file:  200
+15:53:49 Date:  250903
+15:53:49 Points per event:  1250
+15:53:49 Time between points:  7.9936e-11
+15:53:49 Start time:  8e-11
+15:53:49 Number of channels: 1
+15:53:49 Num. of U:  -
+15:53:49 Voltage:  -600
+15:53:49 Current:  3.379522e-08
+15:53:49 Temperature:  253
+15:53:49 ************************* 
+15:53:49 Sample:  300um_UIRAD
+15:53:49 User:  Marie, Max, Ioanna
+15:53:49 Comment:  
+15:53:49 ************************* 
+15:53:49 0 waveforms discarded
+15:53:49 Pedestal: 0.1268888888888889
+15:53:49 Reading file:  300um_UIRAD_-700_253_250903_Laser2620
+15:53:49 Terminal voltage oscilloscope:  50
+15:53:49 Number of events per file:  200
+15:53:49 Date:  250903
+15:53:49 Points per event:  1250
+15:53:49 Time between points:  7.9936e-11
+15:53:49 Start time:  8e-11
+15:53:49 Number of channels: 1
+15:53:49 Num. of U:  -
+15:53:49 Voltage:  -700
+15:53:49 Current:  -0.0001049846
+15:53:49 Temperature:  253
+15:53:49 ************************* 
+15:53:49 Sample:  300um_UIRAD
+15:53:49 User:  Marie, Max, Ioanna
+15:53:49 Comment:  
+15:53:49 ************************* 
+15:53:49 0 waveforms discarded
+15:53:49 Pedestal: 0.060444444444444495

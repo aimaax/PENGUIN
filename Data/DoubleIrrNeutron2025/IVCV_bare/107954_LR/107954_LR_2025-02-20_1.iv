@@ -1,0 +1,92 @@
+IV with two I-meter
+IV with two I-meter
+:Program Version
+13.8.2003 Moll, 4.2008 Fahrer, 6.2011 Gabrysch, 7.2019 Mateu
+:start
+20/02/2025 13:52:44
+:stop
+20/02/2025 13:55:02
+:elapsed[s]
+138.2
+:tester
+
+:environment
+Probe Station (28-2-019)
+:comment
+
+:temperature[C]
+-20.0
+:ToolID
+1102
+:GuardRingConnection
+1
+:Region
+0
+:Instruments
+I meter: Keithley 6487
+V source: Keithley 2410
+- integration time [ms]: 20.0
+- internal averaging: 5
+- compliance [A or V]: 1.000E-3
+:ramp up step [V], delay [s], down step [V], delay[s]
+20.0, 2.0, 20.0, 0.5
+:set voltage start [V], voltage stop [V], number of steps
+-20.0, -500.0, 25
+:measured voltage start [V], voltage stop [V], number of steps
+-20.0, -500.0, 25
+:step mode
+linear
+:Sample
+107954_LR
+:Producer
+HPK
+:Run
+
+:Wafer
+107954
+:TREC
+
+:Area[cm-2]
+
+:Thickness[um]
+300
+:Support_Wafer_Thickness[um]
+
+:Resistivity[ohm.cm]
+
+:Sample_comment
+
+:Material
+p FZ
+:Irradiation(Location,Fluence/Dose,Units,Particle,Date)
+28/2-026,1.000000E+15,neq/cm2,  Neutrons,20/02/2025
+:Annealing_history(time[min],Temp[C],Date)
+:legend
+bias [V]	Total Current [A]	Pad Current [A]
+BEGIN
+-2.000000E+1	-1.424375E-6	-1.053173E-6
+-4.000000E+1	-1.975052E-6	-1.470369E-6
+-6.000000E+1	-2.393318E-6	-1.816990E-6
+-8.000000E+1	-2.782594E-6	-2.114834E-6
+-1.000000E+2	-3.114572E-6	-2.383731E-6
+-1.200000E+2	-3.420251E-6	-2.638839E-6
+-1.400000E+2	-3.726926E-6	-2.885856E-6
+-1.600000E+2	-4.002864E-6	-3.108191E-6
+-1.800000E+2	-4.275219E-6	-3.309616E-6
+-2.000000E+2	-4.517950E-6	-3.515166E-6
+-2.200000E+2	-4.791209E-6	-3.727680E-6
+-2.400000E+2	-5.005799E-6	-3.919446E-6
+-2.600000E+2	-5.263628E-6	-4.117279E-6
+-2.800000E+2	-5.505593E-6	-4.333397E-6
+-3.000000E+2	-5.747971E-6	-4.528918E-6
+-3.200000E+2	-5.971883E-6	-4.720627E-6
+-3.400000E+2	-6.246813E-6	-4.898682E-6
+-3.600000E+2	-6.446590E-6	-5.077641E-6
+-3.800000E+2	-6.670777E-6	-5.269841E-6
+-4.000000E+2	-6.896480E-6	-5.430774E-6
+-4.200000E+2	-7.144303E-6	-5.643235E-6
+-4.400000E+2	-7.370429E-6	-5.809368E-6
+-4.600000E+2	-7.538359E-6	-5.965690E-6
+-4.800000E+2	-7.779931E-6	-6.163495E-6
+-5.000000E+2	-8.041294E-6	-6.305514E-6
+END

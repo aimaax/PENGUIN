@@ -1,0 +1,83 @@
+CV measurement
+CV Measurement
+:Program Version
+13.8.2003 Moll, 4.2008 Fahrer, 6.2011 Gabrysch, 7.2019 Mateu
+:start
+20/12/2024 10:17:15
+:stop
+20/12/2024 10:19:33
+:elapsed[s]
+138.1
+:tester
+Marie
+:environment
+Probe Station (28-2-019)
+:comment
+
+:temperature[C]
+-20.0
+:ToolID
+1102
+:GuardRingConnection
+1
+:Region
+0
+:Instruments
+V source: Keithley 2410
+- integration time [ms]: 20.0
+- internal averaging: 3
+- compliance [A or V]: 1.000E-3
+LCR meter: Agilent E4980A
+- Frequency: 2000 Hz
+- Signal level: 500 mV
+- Averaging: 10
+:LCR open correction: C[F] , G[S]
+5.008E-11, 4.486E-10
+:ramp up step [V], delay [s], down step [V], delay[s]
+20.0, 2.0, 20.0, 0.5
+:set voltage start [V], voltage stop [V], number of steps
+-0.0, -500.0, 26
+:measured voltage start [V], voltage stop [V], number of steps
+-0.0, -200.0, 11
+:step mode
+linear
+:Sample
+N8737_4_LL1
+:Producer
+HPK
+:Run
+
+:Wafer
+N8737_4
+:TREC
+
+:Area[cm-2]
+
+:Thickness[um]
+120
+:Support_Wafer_Thickness[um]
+
+:Resistivity[ohm.cm]
+
+:Sample_comment
+
+:Material
+p EPI
+:Irradiation(Location,Fluence/Dose,Units,Particle,Date)
+28/2-026,6.000000E+15,neq/cm2,  Protons,20/12/2024
+:Annealing_history(time[min],Temp[C],Date)
+:legend
+V_detector [V]	Capacitance [F]	Conductivity [S]	Bias [V]	Current Power Supply [A]
+BEGIN
+0.000000E+0	1.551390E-11	2.897718E-8	-0.000000E+0	-6.130551E-9
+-2.000000E+1	1.546990E-11	2.931568E-8	-2.000000E+1	-1.705474E-8
+-4.000000E+1	1.548000E-11	2.978768E-8	-4.000000E+1	-1.951152E-8
+-6.000000E+1	1.543590E-11	3.142988E-8	-6.000000E+1	-5.655266E-8
+-8.000000E+1	1.529190E-11	3.499368E-8	-8.000000E+1	-1.167738E-7
+-1.000000E+2	1.491620E-11	4.445968E-8	-1.000000E+2	-3.558741E-7
+-1.200000E+2	1.259910E-11	1.147674E-7	-1.200000E+2	-1.998545E-6
+-1.400000E+2	1.162180E-11	2.975434E-7	-1.400000E+2	-6.619032E-6
+-1.600000E+2	-5.007850E-11	-4.486222E-10	-1.600000E+2	-1.047389E-5
+-1.800000E+2	-5.007850E-11	-4.486222E-10	-1.800000E+2	-1.336904E-5
+-2.000000E+2	-5.007850E-11	-4.486222E-10	-2.000000E+2	-1.654241E-5
+END

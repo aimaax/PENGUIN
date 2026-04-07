@@ -1,0 +1,23 @@
+# uv / Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.python-version
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# OS
+.DS_Store
+Thumbs.db
+
+GUI/Helper_Functions/__pycache__/
+GUI/GUI_Tabs/__pycache__/
+GUI/Separate_Scripts/__pycache__/
+_OLD_CODE/
+test*
+Database/Diodes_Database.pkl
+SavedPlots/

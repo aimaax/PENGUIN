@@ -1,0 +1,1 @@
+Copy database from SavedDatabases and rename to Diodes_Database.pkl under Database/ folder or create a new database from running the GUI --> Manage Database --> Create Database
