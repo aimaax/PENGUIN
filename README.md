@@ -46,7 +46,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 ### Clone repo
 
 ```
-git clone https://github.com/aimaax/penguin.git
+git clonehttps://<username>@github.com/aimaax/penguin.git
 cd penguin
 ```
 
