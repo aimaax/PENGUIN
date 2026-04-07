@@ -132,7 +132,7 @@ Plot data, make sure that you have path columns are created under your system [W
 
 - **Campaign**
 - **Measurement**: IV, CV or TCT
-- **Measurement Type** (onPCB = measured at [Particulars Setup](https://gitlab.cern.ch/CLICdp/HGCAL/particulars_setup), bare = measured at IVCV probe station),
+- **Measurement Type** (onPCB = measured at [Particulars Setup](), bare = measured at IVCV probe station),
 - **Annealing Temperature**
 - **Sensor ID**
 - **Annealing Time**
